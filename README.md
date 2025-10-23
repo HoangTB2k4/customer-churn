@@ -7,7 +7,7 @@ Dự án này tập trung vào việc phân tích dữ liệu khách hàng của
 - Làm sạch và tiền xử lý dữ liệu để chuẩn bị cho việc xây dựng mô hình.
 - Xây dựng và đánh giá mô hình phân loại để dự đoán churn.
 - Cải thiện hiệu suất mô hình, đặc biệt là khả năng phát hiện khách hàng churn.
-- 
+  
 # 3.Bộ dữ liệu
 Bộ dữ liệu được sử dụng là customer_churn.csv, chứa thông tin chi tiết về từng khách hàng, bao gồm các thông tin cá nhân, dịch vụ đã đăng ký, thời gian sử dụng dịch vụ, phí hàng tháng, tổng phí và trạng thái churn (Yes/No).
 
